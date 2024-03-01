@@ -1,0 +1,21 @@
+
+*{
+    font-family: 'Poppins',cursive;
+}
+
+.heading{
+	text-align: center;
+	margin-top: 200px;
+}
+
+.desc{
+	text-align: center;
+}
+
+.button{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-top: 30px;
+	
+}
